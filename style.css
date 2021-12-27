@@ -47,3 +47,8 @@
       transition: all 0.05s;
       transition-timing-function: ease-in-out;
     }
+
+    .second-hand {
+      background-color: white;
+      height: 2px;
+    }
