@@ -23,7 +23,7 @@
     const minHand = document.querySelector('.min-hand');
     const hourHand = document.querySelector('.hour-hand');
 
-    const allHands = document.querySelector('.hand');
+    const allHands = document.querySelectorAll('.hand');
 
     function setDate() {
       const now = new Date();
@@ -49,6 +49,7 @@
 
     setInterval(setDate, 1000);
 
+  
 
 
 
