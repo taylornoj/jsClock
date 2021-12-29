@@ -8,7 +8,7 @@ This project was built with starter code from the [JavaScript 30 challenge](http
 - second, minute and hour object methods
 - dynamic values
 - transform-origin css attribute (where a given 'transform' pivots from)
-- transition-timing-function (adding custom transition effect using Chrome Dev Tools)
+- transition-timing-function (adding a custom transition cubic bezier function, using Chrome Dev Tools)
 
 App can be found here: https://taylornoj.github.io/jsClock/
 
