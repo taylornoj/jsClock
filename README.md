@@ -12,4 +12,4 @@ This project was built with starter code from the [JavaScript 30 challenge](http
 
 App can be found here: https://taylornoj.github.io/jsClock/
 
-In addition to completing the app as designed by the starter code, I also updated the clock face, second hand as well as hour hand to appear more readable.  I also found a different background for my app, found [here](https://www.pexels.com/search/blurred%20background/).
+In addition to completing the app as designed by the starter code, I also updated the clock face, second hand as well as hour hand to appear more readable.  I applied code to remove the transition glitch whent he second hand hit 60 seconds. I also found a different background for my app, found [here](https://www.pexels.com/search/blurred%20background/).
