@@ -44,12 +44,12 @@
       transform-origin: 100%;
       transform: rotate(90deg);
       transition: all 0.05s;
-      transition-timing-function: ease-in-out;
     }
 
     .second-hand {
       background-color: white;
       height: 2px;
+      transition-timing-function: cubic-bezier(0.2, 2.7, .58, 1);
     }
 
     .hour-hand {
